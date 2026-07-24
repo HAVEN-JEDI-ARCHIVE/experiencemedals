@@ -1,0 +1,270 @@
+{
+	"tables": {
+		"gar_xp_milestones": [
+			{
+				"grants_title": "Traitor",
+				"sort_order": "15",
+				"icon": "",
+				"id": "1",
+				"description": "You have betrayed many of your brothers... Or you killed player Characters.. Either way we have a use for you still",
+				"stat_type": "player_kills",
+				"target_value": "30",
+				"name": "Traitor",
+				"xp_reward": "0"
+			},
+			{
+				"grants_title": "Droid Destroyer",
+				"sort_order": "1",
+				"icon": "",
+				"id": "2",
+				"description": "You are the Terror of the CIS",
+				"stat_type": "npc_kills",
+				"target_value": "1500",
+				"name": "Destroyer",
+				"xp_reward": "0"
+			},
+			{
+				"grants_title": "Living Shield",
+				"sort_order": "2",
+				"icon": "",
+				"id": "3",
+				"description": "Take damage to protect others",
+				"stat_type": "damage_taken",
+				"target_value": "300000",
+				"name": "Human Shield",
+				"xp_reward": "0"
+			},
+			{
+				"grants_title": "The Sponge",
+				"sort_order": "3",
+				"icon": "",
+				"id": "4",
+				"description": "You Attract NPCS",
+				"stat_type": "damage_taken",
+				"target_value": "5000",
+				"name": "The Sponge",
+				"xp_reward": "0"
+			},
+			{
+				"grants_title": "Deaths Regular Customer",
+				"sort_order": "4",
+				"icon": "",
+				"id": "5",
+				"description": "You have met death so many times now... You play cards at night",
+				"stat_type": "deaths",
+				"target_value": "100",
+				"name": "At Deaths Door",
+				"xp_reward": "0"
+			},
+			{
+				"grants_title": "FNG",
+				"sort_order": "6",
+				"icon": "",
+				"id": "6",
+				"description": "NPC Kills x 10",
+				"stat_type": "npc_kills",
+				"target_value": "10",
+				"name": "Just Like The Simulations!",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Clanka Basher",
+				"sort_order": "7",
+				"icon": "",
+				"id": "7",
+				"description": "NPC Kills x 50",
+				"stat_type": "npc_kills",
+				"target_value": "50",
+				"name": "Droid Basher",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "B1",
+				"sort_order": "7",
+				"icon": "",
+				"id": "8",
+				"description": "NPC Kills x 100",
+				"stat_type": "npc_kills",
+				"target_value": "100",
+				"name": "B1 Nightmare",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Spartan",
+				"sort_order": "8",
+				"icon": "",
+				"id": "9",
+				"description": "NPC Kills x 300",
+				"stat_type": "npc_kills",
+				"target_value": "300",
+				"name": "1 of 300!",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Honorary 501st",
+				"sort_order": "9",
+				"icon": "",
+				"id": "10",
+				"description": "NPC Kills x 501",
+				"stat_type": "npc_kills",
+				"target_value": "501",
+				"name": "Honorary 501st",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Berserker",
+				"sort_order": "10",
+				"icon": "",
+				"id": "11",
+				"description": "NPC Kills x 800",
+				"stat_type": "npc_kills",
+				"target_value": "800",
+				"name": "Berserker",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Deaths Disciple",
+				"sort_order": "11",
+				"icon": "",
+				"id": "12",
+				"description": "Do we even need to say how many at this point...?",
+				"stat_type": "npc_kills",
+				"target_value": "2000",
+				"name": "Deaths Disciple",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Wet Paper Bag",
+				"sort_order": "12",
+				"icon": "",
+				"id": "13",
+				"description": "Damage Taken x 50",
+				"stat_type": "damage_taken",
+				"target_value": "50",
+				"name": "Wet Paper Bag",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Cardboard",
+				"sort_order": "13",
+				"icon": "",
+				"id": "14",
+				"description": "Damage Taken x 100",
+				"stat_type": "damage_taken",
+				"target_value": "100",
+				"name": "Cardboard",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Plastic Armor ",
+				"sort_order": "14",
+				"icon": "",
+				"id": "15",
+				"description": "Damage Taken x 250",
+				"stat_type": "damage_taken",
+				"target_value": "250",
+				"name": "Plastic Armor",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Rock Hard ",
+				"sort_order": "15",
+				"icon": "",
+				"id": "16",
+				"description": "Damage Taken x 500",
+				"stat_type": "damage_taken",
+				"target_value": "500",
+				"name": "Hard As A Rock",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Fake Fordo",
+				"sort_order": "16",
+				"icon": "",
+				"id": "17",
+				"description": "Damage Taken x 1000",
+				"stat_type": "damage_taken",
+				"target_value": "1000",
+				"name": "Fake Fordo",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Juggernaut",
+				"sort_order": "17",
+				"icon": "",
+				"id": "18",
+				"description": "Damage Taken x 2500",
+				"stat_type": "damage_taken",
+				"target_value": "2500",
+				"name": "Get Sum!",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "Super Trooper",
+				"sort_order": "18",
+				"icon": "",
+				"id": "19",
+				"description": "Damage Taken x 3000",
+				"stat_type": "damage_taken",
+				"target_value": "3000",
+				"name": "Super Trooper",
+				"xp_reward": "50"
+			},
+			{
+				"grants_title": "",
+				"sort_order": "0",
+				"icon": "",
+				"id": "20",
+				"description": "A trooper that has demonstrated the Ultimate ability in and out of battle in defense of his fellow troopers. | Assigned Monthly by Jedi High Command",
+				"stat_type": "manual",
+				"target_value": "1",
+				"name": "H.A.V.E.N Guardian",
+				"xp_reward": "12000"
+			},
+			{
+				"grants_title": "501st Medal Of Valor",
+				"sort_order": "22",
+				"icon": "",
+				"id": "22",
+				"description": "Given to troopers who show the upmost grit in battle!",
+				"stat_type": "manual",
+				"target_value": "1",
+				"name": "501st Medal Of Valor",
+				"xp_reward": "1000"
+			},
+			{
+				"grants_title": "21st Medal Of Valor",
+				"sort_order": "23",
+				"icon": "",
+				"id": "23",
+				"description": "Given to troopers who show the upmost grit in battle!",
+				"stat_type": "manual",
+				"target_value": "1",
+				"name": "21st Medal Of Valor",
+				"xp_reward": "1000"
+			},
+			{
+				"grants_title": "12th Fleet Medal Of Valor",
+				"sort_order": "24",
+				"icon": "",
+				"id": "24",
+				"description": "Given to troopers who show the upmost grit in battle!",
+				"stat_type": "manual",
+				"target_value": "1",
+				"name": "12th Fleet Medal Of Valor",
+				"xp_reward": "1000"
+			},
+			{
+				"grants_title": "CG Medal Of Valor",
+				"sort_order": "25",
+				"icon": "",
+				"id": "25",
+				"description": "Given to troopers who show the upmost grit in battle!",
+				"stat_type": "manual",
+				"target_value": "1",
+				"name": "CG Medal Of Valor",
+				"xp_reward": "1000"
+			}
+		]
+	}
+}
