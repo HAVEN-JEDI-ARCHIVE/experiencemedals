@@ -1,0 +1,28 @@
+{
+	"tables": {
+		"gar_medinv_medal_xp": [
+			{
+				"medal_key": "medal_sw_maj",
+				"xp_amount": "0"
+			}
+		],
+		"gar_medinv_access_users": [],
+		"gar_medinv_access_groups": [
+			{
+				"usergroup": "event manager"
+			},
+			{
+				"usergroup": "head admin"
+			},
+			{
+				"usergroup": "server manager"
+			},
+			{
+				"usergroup": "server owner"
+			},
+			{
+				"usergroup": "staff manager"
+			}
+		]
+	}
+}
