@@ -1,0 +1,441 @@
+{
+	"tables": {
+		"gar_xp_npc_values": [
+			{
+				"display_name": "npc_vj_cwcis_battle_droid",
+				"npc_class": "npc_vj_cwcis_battle_droid",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwrep_212th_clonetrooper_engineer",
+				"npc_class": "npc_vj_cwrep_212th_clonetrooper_engineer",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_super_battle_droid",
+				"npc_class": "npc_vj_cwcis_super_battle_droid",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper_jet",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper_jet",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_battle_droid_commander",
+				"npc_class": "npc_vj_cwcis_battle_droid_commander",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_battle_droid_assassin",
+				"npc_class": "npc_vj_cwcis_battle_droid_assassin",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_battle_droid_rocketeer",
+				"npc_class": "npc_vj_cwcis_battle_droid_rocketeer",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_magna_guard",
+				"npc_class": "npc_vj_cwcis_magna_guard",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_droideka",
+				"npc_class": "npc_vj_cwcis_droideka",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwrep_sentry_gun",
+				"npc_class": "npc_vj_cwrep_sentry_gun",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_dwarf_spider_droid",
+				"npc_class": "npc_vj_cwcis_dwarf_spider_droid",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_battle_droid_engineer",
+				"npc_class": "npc_vj_cwcis_battle_droid_engineer",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_sentry_gun",
+				"npc_class": "npc_vj_cwcis_sentry_gun",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwcis_homing_spider_droid",
+				"npc_class": "npc_vj_cwcis_homing_spider_droid",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper_rocketeer",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper_rocketeer",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_crow",
+				"npc_class": "npc_crow",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_monk",
+				"npc_class": "npc_monk",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_pigeon",
+				"npc_class": "npc_pigeon",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_seagull",
+				"npc_class": "npc_seagull",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "massassi_guardian",
+				"npc_class": "massassi_guardian",
+				"xp_value": "5"
+			},
+			{
+				"display_name": "npc_combine_s",
+				"npc_class": "npc_combine_s",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_shock_clonetrooper_engineer",
+				"npc_class": "npc_vj_cwrep_shock_clonetrooper_engineer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_2nd_paratrooper_sharp",
+				"npc_class": "npc_vj_cwrep_2nd_paratrooper_sharp",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwcis_advanced_dwarf_spider_droid",
+				"npc_class": "npc_vj_cwcis_advanced_dwarf_spider_droid",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_citizen",
+				"npc_class": "npc_citizen",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_lieutenant",
+				"npc_class": "npc_vj_cwrep_clonetrooper_lieutenant",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_engineer",
+				"npc_class": "npc_vj_cwrep_clonetrooper_engineer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_rocketeer",
+				"npc_class": "npc_vj_cwrep_clonetrooper_rocketeer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper",
+				"npc_class": "npc_vj_cwrep_clonetrooper",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_deltasquad_sev",
+				"npc_class": "npc_vj_cwrep_deltasquad_sev",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper_arc",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper_arc",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper_engineer",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper_engineer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_heavy",
+				"npc_class": "npc_vj_cwrep_clonetrooper_heavy",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_arc",
+				"npc_class": "npc_vj_cwrep_clonetrooper_arc",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_antlion_grub",
+				"npc_class": "npc_antlion_grub",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_barnacle",
+				"npc_class": "npc_barnacle",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clone_commando",
+				"npc_class": "npc_vj_cwrep_clone_commando",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_hunter",
+				"npc_class": "npc_hunter",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_stalker",
+				"npc_class": "npc_stalker",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vortigaunt",
+				"npc_class": "npc_vortigaunt",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_eli",
+				"npc_class": "npc_eli",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_gman",
+				"npc_class": "npc_gman",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_fastzombie",
+				"npc_class": "npc_fastzombie",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_zombie_torso",
+				"npc_class": "npc_zombie_torso",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_headcrab_fast",
+				"npc_class": "npc_headcrab_fast",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_poisonzombie",
+				"npc_class": "npc_poisonzombie",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_headcrab_poison",
+				"npc_class": "npc_headcrab_poison",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_sharp",
+				"npc_class": "npc_vj_cwrep_clonetrooper_sharp",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_test_player",
+				"npc_class": "npc_vj_test_player",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_galactic_marine_lieutenant",
+				"npc_class": "npc_vj_cwrep_galactic_marine_lieutenant",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_galactic_marine",
+				"npc_class": "npc_vj_cwrep_galactic_marine",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_shock_clonetrooper_heavy",
+				"npc_class": "npc_vj_cwrep_shock_clonetrooper_heavy",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_galactic_marine_heavy",
+				"npc_class": "npc_vj_cwrep_galactic_marine_heavy",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_deltasquad_scorch",
+				"npc_class": "npc_vj_cwrep_deltasquad_scorch",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_deltasquad_boss",
+				"npc_class": "npc_vj_cwrep_deltasquad_boss",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_headcrab_black",
+				"npc_class": "npc_headcrab_black",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_headcrab",
+				"npc_class": "npc_headcrab",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_drg_testsprite",
+				"npc_class": "npc_drg_testsprite",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_drg_bxyongli_zn_v2",
+				"npc_class": "npc_drg_bxyongli_zn_v2",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_drg_bxyongli_zn",
+				"npc_class": "npc_drg_bxyongli_zn",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_zombie",
+				"npc_class": "npc_zombie",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_zombine",
+				"npc_class": "npc_zombine",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_212th_clonetrooper_rocketeer",
+				"npc_class": "npc_vj_cwrep_212th_clonetrooper_rocketeer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_327th_clonetrooper_engineer",
+				"npc_class": "npc_vj_cwrep_327th_clonetrooper_engineer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_test_interactive",
+				"npc_class": "npc_vj_test_interactive",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_antlion",
+				"npc_class": "npc_antlion",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_antlion_worker",
+				"npc_class": "npc_antlion_worker",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_fastzombie_torso",
+				"npc_class": "npc_fastzombie_torso",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_antlionguard",
+				"npc_class": "npc_antlionguard",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_shock_clonetrooper",
+				"npc_class": "npc_vj_cwrep_shock_clonetrooper",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_atxt",
+				"npc_class": "npc_vj_cwrep_atxt",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_2nd_paratrooper",
+				"npc_class": "npc_vj_cwrep_2nd_paratrooper",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_2nd_paratrooper_engineer",
+				"npc_class": "npc_vj_cwrep_2nd_paratrooper_engineer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_atte",
+				"npc_class": "npc_vj_cwrep_atte",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper_lieutenant",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper_lieutenant",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_212th_clonetrooper_jet",
+				"npc_class": "npc_vj_cwrep_212th_clonetrooper_jet",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_2nd_paratrooper_rocketeer",
+				"npc_class": "npc_vj_cwrep_2nd_paratrooper_rocketeer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_212th_clonetrooper_sharp",
+				"npc_class": "npc_vj_cwrep_212th_clonetrooper_sharp",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_phase1_clonetrooper_lieutenant",
+				"npc_class": "npc_vj_cwrep_phase1_clonetrooper_lieutenant",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_drg_headcrab",
+				"npc_class": "npc_drg_headcrab",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_327th_clonetrooper_sharp",
+				"npc_class": "npc_vj_cwrep_327th_clonetrooper_sharp",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_shock_clonetrooper_rocketeer",
+				"npc_class": "npc_vj_cwrep_shock_clonetrooper_rocketeer",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_327th_clonetrooper",
+				"npc_class": "npc_vj_cwrep_327th_clonetrooper",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_phase1_clonetrooper",
+				"npc_class": "npc_vj_cwrep_phase1_clonetrooper",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_drg_bxyongli_easy_zn",
+				"npc_class": "npc_drg_bxyongli_easy_zn",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_cgi_zombie",
+				"npc_class": "npc_cgi_zombie",
+				"xp_value": "15"
+			}
+		]
+	}
+}
