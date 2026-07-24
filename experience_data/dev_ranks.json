@@ -1,0 +1,46 @@
+{
+	"tables": {
+		"gar_xp_dev_rank_access_groups": [
+			{
+				"usergroup": "staff manager"
+			},
+			{
+				"usergroup": "server manager"
+			},
+			{
+				"usergroup": "server owner"
+			}
+		],
+		"gar_xp_dev_ranks": [
+			{
+				"color": "#D4AF37",
+				"sort_order": "0",
+				"name": "Sovereign Eternal",
+				"id": "1"
+			},
+			{
+				"color": "#DAA520 ",
+				"sort_order": "1",
+				"name": "High General Eternal",
+				"id": "2"
+			},
+			{
+				"color": "#ff2e6c",
+				"sort_order": "0",
+				"name": "The Highest High Commander",
+				"id": "3"
+			}
+		],
+		"gar_xp_access_groups": [
+			{
+				"usergroup": "staff manager"
+			},
+			{
+				"usergroup": "server owner"
+			},
+			{
+				"usergroup": "server manager"
+			}
+		]
+	}
+}
