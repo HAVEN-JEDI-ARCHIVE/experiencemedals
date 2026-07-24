@@ -1,0 +1,50 @@
+{
+	"tables": {
+		"gar_cert_types": [],
+		"gar_cert_medal_rewards": [],
+		"gar_cert_access_groups": [],
+		"gar_cert_access_users": [],
+		"gar_cert_battalions": [
+			{
+				"battalion_name": "12th Fleet Naval",
+				"sort_order": "1",
+				"battalion_key": "naval"
+			},
+			{
+				"battalion_name": "501st Battalion",
+				"sort_order": "2",
+				"battalion_key": "501st"
+			},
+			{
+				"battalion_name": "21st Battalion",
+				"sort_order": "3",
+				"battalion_key": "21st"
+			},
+			{
+				"battalion_name": "Shock Battalion (Coruscant Guard)",
+				"sort_order": "4",
+				"battalion_key": "shock"
+			},
+			{
+				"battalion_name": "Global Certifications",
+				"sort_order": "0",
+				"battalion_key": "global"
+			}
+		],
+		"gar_cert_command_jobs": [],
+		"gar_cert_tier_names": [
+			{
+				"name": "Level 1",
+				"tier": "1"
+			},
+			{
+				"name": "Level 2",
+				"tier": "2"
+			},
+			{
+				"name": "Level 3",
+				"tier": "3"
+			}
+		]
+	}
+}
