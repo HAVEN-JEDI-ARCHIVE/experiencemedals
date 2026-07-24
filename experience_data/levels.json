@@ -1,0 +1,606 @@
+{
+	"tables": {
+		"gar_xp_levels": [
+			{
+				"level_number": "1",
+				"xp_required": "0",
+				"title": "Void Initiate",
+				"id": "1"
+			},
+			{
+				"level_number": "2",
+				"xp_required": "60",
+				"title": "Ember Initiate",
+				"id": "2"
+			},
+			{
+				"level_number": "3",
+				"xp_required": "230",
+				"title": "Nexus Initiate",
+				"id": "3"
+			},
+			{
+				"level_number": "4",
+				"xp_required": "520",
+				"title": "Astra Initiate",
+				"id": "4"
+			},
+			{
+				"level_number": "5",
+				"xp_required": "940",
+				"title": "Umbra Initiate",
+				"id": "5"
+			},
+			{
+				"level_number": "6",
+				"xp_required": "1490",
+				"title": "Talon Initiate",
+				"id": "6"
+			},
+			{
+				"level_number": "7",
+				"xp_required": "2170",
+				"title": "Bastion Initiate",
+				"id": "7"
+			},
+			{
+				"level_number": "8",
+				"xp_required": "2970",
+				"title": "Phalanx Initiate",
+				"id": "8"
+			},
+			{
+				"level_number": "9",
+				"xp_required": "3910",
+				"title": "Citadel Initiate",
+				"id": "9"
+			},
+			{
+				"level_number": "10",
+				"xp_required": "4970",
+				"title": "H.A.V.E.N Initiate",
+				"id": "10"
+			},
+			{
+				"level_number": "11",
+				"xp_required": "6170",
+				"title": "Void Warden",
+				"id": "11"
+			},
+			{
+				"level_number": "12",
+				"xp_required": "7500",
+				"title": "Ember Warden",
+				"id": "12"
+			},
+			{
+				"level_number": "13",
+				"xp_required": "8970",
+				"title": "Nexus Warden",
+				"id": "13"
+			},
+			{
+				"level_number": "14",
+				"xp_required": "10570",
+				"title": "Astra Warden",
+				"id": "14"
+			},
+			{
+				"level_number": "15",
+				"xp_required": "12300",
+				"title": "Umbra Warden",
+				"id": "15"
+			},
+			{
+				"level_number": "16",
+				"xp_required": "14170",
+				"title": "Talon Warden",
+				"id": "16"
+			},
+			{
+				"level_number": "17",
+				"xp_required": "16170",
+				"title": "Bastion Warden",
+				"id": "17"
+			},
+			{
+				"level_number": "18",
+				"xp_required": "18310",
+				"title": "Phalanx Warden",
+				"id": "18"
+			},
+			{
+				"level_number": "19",
+				"xp_required": "20590",
+				"title": "Citadel Warden",
+				"id": "19"
+			},
+			{
+				"level_number": "20",
+				"xp_required": "23000",
+				"title": "H.A.V.E.N Warden",
+				"id": "20"
+			},
+			{
+				"level_number": "21",
+				"xp_required": "25550",
+				"title": "Void Sentinel",
+				"id": "21"
+			},
+			{
+				"level_number": "22",
+				"xp_required": "28240",
+				"title": "Ember Sentinel",
+				"id": "22"
+			},
+			{
+				"level_number": "23",
+				"xp_required": "31070",
+				"title": "Nexus Sentinel",
+				"id": "23"
+			},
+			{
+				"level_number": "24",
+				"xp_required": "34030",
+				"title": "Astra Sentinel",
+				"id": "24"
+			},
+			{
+				"level_number": "25",
+				"xp_required": "37140",
+				"title": "Umbra Sentinel",
+				"id": "25"
+			},
+			{
+				"level_number": "26",
+				"xp_required": "40380",
+				"title": "Talon Sentinel",
+				"id": "26"
+			},
+			{
+				"level_number": "27",
+				"xp_required": "43760",
+				"title": "Bastion Sentinel",
+				"id": "27"
+			},
+			{
+				"level_number": "28",
+				"xp_required": "47280",
+				"title": "Phalanx Sentinel",
+				"id": "28"
+			},
+			{
+				"level_number": "29",
+				"xp_required": "50940",
+				"title": "Citadel Sentinel",
+				"id": "29"
+			},
+			{
+				"level_number": "30",
+				"xp_required": "54740",
+				"title": "H.A.V.E.N Sentinel",
+				"id": "30"
+			},
+			{
+				"level_number": "31",
+				"xp_required": "58680",
+				"title": "Void Vanguard",
+				"id": "31"
+			},
+			{
+				"level_number": "32",
+				"xp_required": "62760",
+				"title": "Ember Vanguard",
+				"id": "32"
+			},
+			{
+				"level_number": "33",
+				"xp_required": "66980",
+				"title": "Nexus Vanguard",
+				"id": "33"
+			},
+			{
+				"level_number": "34",
+				"xp_required": "71340",
+				"title": "Astra Vanguard",
+				"id": "34"
+			},
+			{
+				"level_number": "35",
+				"xp_required": "75840",
+				"title": "Umbra Vanguard",
+				"id": "35"
+			},
+			{
+				"level_number": "36",
+				"xp_required": "80480",
+				"title": "Talon Vanguard",
+				"id": "36"
+			},
+			{
+				"level_number": "37",
+				"xp_required": "85270",
+				"title": "Bastion Vanguard",
+				"id": "37"
+			},
+			{
+				"level_number": "38",
+				"xp_required": "90190",
+				"title": "Phalanx Vanguard",
+				"id": "38"
+			},
+			{
+				"level_number": "39",
+				"xp_required": "95260",
+				"title": "Citadel Vanguard",
+				"id": "39"
+			},
+			{
+				"level_number": "40",
+				"xp_required": "100470",
+				"title": "H.A.V.E.N Vanguard",
+				"id": "40"
+			},
+			{
+				"level_number": "41",
+				"xp_required": "105820",
+				"title": "Void Enforcer",
+				"id": "41"
+			},
+			{
+				"level_number": "42",
+				"xp_required": "111320",
+				"title": "Ember Enforcer",
+				"id": "42"
+			},
+			{
+				"level_number": "43",
+				"xp_required": "116960",
+				"title": "Nexus Enforcer",
+				"id": "43"
+			},
+			{
+				"level_number": "44",
+				"xp_required": "122740",
+				"title": "Astra Enforcer",
+				"id": "44"
+			},
+			{
+				"level_number": "45",
+				"xp_required": "128660",
+				"title": "Umbra Enforcer",
+				"id": "45"
+			},
+			{
+				"level_number": "46",
+				"xp_required": "134730",
+				"title": "Talon Enforcer",
+				"id": "46"
+			},
+			{
+				"level_number": "47",
+				"xp_required": "140930",
+				"title": "Bastion Enforcer",
+				"id": "47"
+			},
+			{
+				"level_number": "48",
+				"xp_required": "147290",
+				"title": "Phalanx Enforcer",
+				"id": "48"
+			},
+			{
+				"level_number": "49",
+				"xp_required": "153780",
+				"title": "Citadel Enforcer",
+				"id": "49"
+			},
+			{
+				"level_number": "50",
+				"xp_required": "160420",
+				"title": "H.A.V.E.N Enforcer",
+				"id": "50"
+			},
+			{
+				"level_number": "51",
+				"xp_required": "167210",
+				"title": "Void Paladin",
+				"id": "51"
+			},
+			{
+				"level_number": "52",
+				"xp_required": "174130",
+				"title": "Ember Paladin",
+				"id": "52"
+			},
+			{
+				"level_number": "53",
+				"xp_required": "181200",
+				"title": "Nexus Paladin",
+				"id": "53"
+			},
+			{
+				"level_number": "54",
+				"xp_required": "188420",
+				"title": "Astra Paladin",
+				"id": "54"
+			},
+			{
+				"level_number": "55",
+				"xp_required": "195780",
+				"title": "Umbra Paladin",
+				"id": "55"
+			},
+			{
+				"level_number": "56",
+				"xp_required": "203290",
+				"title": "Talon Paladin",
+				"id": "56"
+			},
+			{
+				"level_number": "57",
+				"xp_required": "210930",
+				"title": "Bastion Paladin",
+				"id": "57"
+			},
+			{
+				"level_number": "58",
+				"xp_required": "218730",
+				"title": "Phalanx Paladin",
+				"id": "58"
+			},
+			{
+				"level_number": "59",
+				"xp_required": "226670",
+				"title": "Citadel Paladin",
+				"id": "59"
+			},
+			{
+				"level_number": "60",
+				"xp_required": "234750",
+				"title": "H.A.V.E.N Paladin",
+				"id": "60"
+			},
+			{
+				"level_number": "61",
+				"xp_required": "242980",
+				"title": "Void Dominator",
+				"id": "61"
+			},
+			{
+				"level_number": "62",
+				"xp_required": "251360",
+				"title": "Ember Dominator",
+				"id": "62"
+			},
+			{
+				"level_number": "63",
+				"xp_required": "259880",
+				"title": "Nexus Dominator",
+				"id": "63"
+			},
+			{
+				"level_number": "64",
+				"xp_required": "268540",
+				"title": "Astra Dominator",
+				"id": "64"
+			},
+			{
+				"level_number": "65",
+				"xp_required": "277350",
+				"title": "Umbra Dominator",
+				"id": "65"
+			},
+			{
+				"level_number": "66",
+				"xp_required": "286310",
+				"title": "Talon Dominator",
+				"id": "66"
+			},
+			{
+				"level_number": "67",
+				"xp_required": "295410",
+				"title": "Bastion Dominator",
+				"id": "67"
+			},
+			{
+				"level_number": "68",
+				"xp_required": "304660",
+				"title": "Phalanx Dominator",
+				"id": "68"
+			},
+			{
+				"level_number": "69",
+				"xp_required": "314060",
+				"title": "Citadel Dominator",
+				"id": "69"
+			},
+			{
+				"level_number": "70",
+				"xp_required": "323600",
+				"title": "H.A.V.E.N Dominator",
+				"id": "70"
+			},
+			{
+				"level_number": "71",
+				"xp_required": "333280",
+				"title": "Void Ascendant",
+				"id": "71"
+			},
+			{
+				"level_number": "72",
+				"xp_required": "343120",
+				"title": "Ember Ascendant",
+				"id": "72"
+			},
+			{
+				"level_number": "73",
+				"xp_required": "353100",
+				"title": "Nexus Ascendant",
+				"id": "73"
+			},
+			{
+				"level_number": "74",
+				"xp_required": "363220",
+				"title": "Astra Ascendant",
+				"id": "74"
+			},
+			{
+				"level_number": "75",
+				"xp_required": "373500",
+				"title": "Umbra Ascendant",
+				"id": "75"
+			},
+			{
+				"level_number": "76",
+				"xp_required": "383920",
+				"title": "Talon Ascendant",
+				"id": "76"
+			},
+			{
+				"level_number": "77",
+				"xp_required": "394490",
+				"title": "Bastion Ascendant",
+				"id": "77"
+			},
+			{
+				"level_number": "78",
+				"xp_required": "405200",
+				"title": "Phalanx Ascendant",
+				"id": "78"
+			},
+			{
+				"level_number": "79",
+				"xp_required": "416060",
+				"title": "Citadel Ascendant",
+				"id": "79"
+			},
+			{
+				"level_number": "80",
+				"xp_required": "427070",
+				"title": "H.A.V.E.N Ascendant",
+				"id": "80"
+			},
+			{
+				"level_number": "81",
+				"xp_required": "438230",
+				"title": "Void Paragon",
+				"id": "81"
+			},
+			{
+				"level_number": "82",
+				"xp_required": "449530",
+				"title": "Ember Paragon",
+				"id": "82"
+			},
+			{
+				"level_number": "83",
+				"xp_required": "460980",
+				"title": "Nexus Paragon",
+				"id": "83"
+			},
+			{
+				"level_number": "84",
+				"xp_required": "472580",
+				"title": "Astra Paragon",
+				"id": "84"
+			},
+			{
+				"level_number": "85",
+				"xp_required": "484320",
+				"title": "Umbra Paragon",
+				"id": "85"
+			},
+			{
+				"level_number": "86",
+				"xp_required": "496220",
+				"title": "Talon Paragon",
+				"id": "86"
+			},
+			{
+				"level_number": "87",
+				"xp_required": "508260",
+				"title": "Bastion Paragon",
+				"id": "87"
+			},
+			{
+				"level_number": "88",
+				"xp_required": "520450",
+				"title": "Phalanx Paragon",
+				"id": "88"
+			},
+			{
+				"level_number": "89",
+				"xp_required": "532790",
+				"title": "Citadel Paragon",
+				"id": "89"
+			},
+			{
+				"level_number": "90",
+				"xp_required": "545270",
+				"title": "H.A.V.E.N Paragon",
+				"id": "90"
+			},
+			{
+				"level_number": "91",
+				"xp_required": "557900",
+				"title": "Void Sovereign",
+				"id": "91"
+			},
+			{
+				"level_number": "92",
+				"xp_required": "570690",
+				"title": "Ember Sovereign",
+				"id": "92"
+			},
+			{
+				"level_number": "93",
+				"xp_required": "583620",
+				"title": "Nexus Sovereign",
+				"id": "93"
+			},
+			{
+				"level_number": "94",
+				"xp_required": "596700",
+				"title": "Astra Sovereign",
+				"id": "94"
+			},
+			{
+				"level_number": "95",
+				"xp_required": "609920",
+				"title": "Umbra Sovereign",
+				"id": "95"
+			},
+			{
+				"level_number": "96",
+				"xp_required": "623300",
+				"title": "Talon Sovereign",
+				"id": "96"
+			},
+			{
+				"level_number": "97",
+				"xp_required": "636820",
+				"title": "Bastion Sovereign",
+				"id": "97"
+			},
+			{
+				"level_number": "98",
+				"xp_required": "650500",
+				"title": "Phalanx Sovereign",
+				"id": "98"
+			},
+			{
+				"level_number": "99",
+				"xp_required": "664320",
+				"title": "Citadel Sovereign",
+				"id": "99"
+			},
+			{
+				"level_number": "100",
+				"xp_required": "678290",
+				"title": "H.A.V.E.N Sovereign — The Eternal",
+				"id": "100"
+			}
+		]
+	}
+}
