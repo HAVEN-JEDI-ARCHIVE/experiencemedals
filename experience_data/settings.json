@@ -1,0 +1,22 @@
+{
+	"tables": {
+		"gar_xp_settings": [
+			{
+				"value": "20",
+				"setting_key": "xp_per_player_kill"
+			},
+			{
+				"value": "5",
+				"setting_key": "xp_per_assist"
+			},
+			{
+				"value": "15",
+				"setting_key": "default_npc_xp"
+			},
+			{
+				"value": "30",
+				"setting_key": "assist_window_seconds"
+			}
+		]
+	}
+}
