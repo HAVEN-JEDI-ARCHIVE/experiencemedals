@@ -435,6 +435,56 @@
 				"display_name": "npc_cgi_zombie",
 				"npc_class": "npc_cgi_zombie",
 				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_clonetrooper_jet",
+				"npc_class": "npc_vj_cwrep_clonetrooper_jet",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_cscanner",
+				"npc_class": "npc_cscanner",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_strider",
+				"npc_class": "npc_strider",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_helicopter",
+				"npc_class": "npc_helicopter",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_metropolice",
+				"npc_class": "npc_metropolice",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_galactic_marine_jet",
+				"npc_class": "npc_vj_cwrep_galactic_marine_jet",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_shock_clonetrooper_jet",
+				"npc_class": "npc_vj_cwrep_shock_clonetrooper_jet",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_shock_clonetrooper_sharp",
+				"npc_class": "npc_vj_cwrep_shock_clonetrooper_sharp",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_212th_clonetrooper_arc",
+				"npc_class": "npc_vj_cwrep_212th_clonetrooper_arc",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_327th_clonetrooper_rocketeer",
+				"npc_class": "npc_vj_cwrep_327th_clonetrooper_rocketeer",
+				"xp_value": "15"
 			}
 		]
 	}
