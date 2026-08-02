@@ -1,3 +1,28 @@
 {
-	"medals": []
+	"medals": {
+		"custom_501st_battalion_accomidation": {
+			"Category": "501st Medals",
+			"IconURL": "https://i.imgur.com/nYNuls2.png",
+			"Name": "501st Battalion Accomidation Medal",
+			"Description": "Awarded for going above and beyond for your battalion."
+		},
+		"custom_12th_fleet_accomication_medal": {
+			"Category": "12th Fleet Medals",
+			"IconURL": "",
+			"Name": "12th Fleet Accomication Medal",
+			"Description": "Awared for going above and beyond for your battalion"
+		},
+		"custom_21st_battalion_accomidation": {
+			"Category": "21st Medals",
+			"IconURL": "https://i.imgur.com/aahHT7X.png",
+			"Name": "21st Battalion Accomidation Medal",
+			"Description": "Awarded for going above and beyond for your battalion."
+		},
+		"custom_shock_battalion_accomidation": {
+			"Category": "CG Medals",
+			"IconURL": "https://i.imgur.com/IMTXmgM.png",
+			"Name": "Shock Battalion Accomidation",
+			"Description": "Awared for going above and beyond for your battalion."
+		}
+	}
 }
