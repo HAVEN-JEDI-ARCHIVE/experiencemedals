@@ -1,6 +1,106 @@
 {
 	"tables": {
-		"gar_cert_types": [],
+		"gar_cert_types": [
+			{
+				"created_at": "1785040271",
+				"cert_key": "medical_pathologist",
+				"id": "4",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "naval",
+				"name": "Medical | Pathologist",
+				"description": ""
+			},
+			{
+				"created_at": "1785040291",
+				"cert_key": "anti_vehicle_support",
+				"id": "5",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "naval",
+				"name": "Anti Vehicle Support",
+				"description": ""
+			},
+			{
+				"created_at": "1785040306",
+				"cert_key": "naval_security_support_cg",
+				"id": "6",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "naval",
+				"name": "Naval Security  | Support CG",
+				"description": ""
+			},
+			{
+				"created_at": "1785040328",
+				"cert_key": "combat_engineer",
+				"id": "7",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "501st",
+				"name": "Combat Engineer",
+				"description": ""
+			},
+			{
+				"created_at": "1785040337",
+				"cert_key": "eod",
+				"id": "8",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "501st",
+				"name": "EOD",
+				"description": ""
+			},
+			{
+				"created_at": "1785040345",
+				"cert_key": "anti_vehicles",
+				"id": "9",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "501st",
+				"name": "Anti-Vehicles",
+				"description": ""
+			},
+			{
+				"created_at": "1785040355",
+				"cert_key": "evo",
+				"id": "10",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "21st",
+				"name": "Evo",
+				"description": ""
+			},
+			{
+				"created_at": "1785040361",
+				"cert_key": "breacher",
+				"id": "11",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "21st",
+				"name": "Breacher",
+				"description": ""
+			},
+			{
+				"created_at": "1785040395",
+				"cert_key": "combat_medic",
+				"id": "12",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "global",
+				"name": "Combat Medic",
+				"description": ""
+			},
+			{
+				"created_at": "1785040402",
+				"cert_key": "heavy",
+				"id": "13",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "global",
+				"name": "Heavy",
+				"description": ""
+			},
+			{
+				"created_at": "1785040406",
+				"cert_key": "engineer",
+				"id": "14",
+				"created_by": "Tarkas Monn",
+				"battalion_key": "global",
+				"name": "Engineer",
+				"description": ""
+			}
+		],
 		"gar_cert_medal_rewards": [],
 		"gar_cert_access_groups": [],
 		"gar_cert_access_users": [],
