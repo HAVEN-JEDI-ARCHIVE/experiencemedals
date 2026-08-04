@@ -485,6 +485,21 @@
 				"display_name": "npc_vj_cwrep_327th_clonetrooper_rocketeer",
 				"npc_class": "npc_vj_cwrep_327th_clonetrooper_rocketeer",
 				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_501st_clonetrooper_sharp",
+				"npc_class": "npc_vj_cwrep_501st_clonetrooper_sharp",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_212th_clonetrooper_heavy",
+				"npc_class": "npc_vj_cwrep_212th_clonetrooper_heavy",
+				"xp_value": "15"
+			},
+			{
+				"display_name": "npc_vj_cwrep_galactic_marine_sharp",
+				"npc_class": "npc_vj_cwrep_galactic_marine_sharp",
+				"xp_value": "15"
 			}
 		]
 	}
