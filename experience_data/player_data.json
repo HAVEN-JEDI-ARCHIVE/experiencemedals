@@ -710,7 +710,7 @@
 				"dropped": "0",
 				"display_name": "#bKeypads_Keycard",
 				"steamid64": "76561199002802022",
-				"source_job": "12th Fleet XO"
+				"source_job": "12th Fleet Sentinel Marshal"
 			},
 			{
 				"item_key": "mvp_perfecthands",
@@ -719,7 +719,7 @@
 				"dropped": "0",
 				"display_name": "Perfect Hands",
 				"steamid64": "76561199002802022",
-				"source_job": "12th Fleet XO"
+				"source_job": "12th Fleet Sentinel Marshal"
 			},
 			{
 				"item_key": "bkeycard",
@@ -1763,7 +1763,7 @@
 				"dropped": "0",
 				"display_name": "#bKeypads_Keycard",
 				"steamid64": "76561199229690250",
-				"source_job": "Clone Recruit"
+				"source_job": "12th Fleet Naval Medical Officer"
 			},
 			{
 				"item_key": "mvp_perfecthands",
@@ -1772,7 +1772,7 @@
 				"dropped": "0",
 				"display_name": "Perfect Hands",
 				"steamid64": "76561199229690250",
-				"source_job": "Clone Recruit"
+				"source_job": "12th Fleet Naval Medical Officer"
 			},
 			{
 				"item_key": "seal6-tac-insert",
@@ -2204,7 +2204,7 @@
 				"dropped": "0",
 				"display_name": "#bKeypads_Keycard",
 				"steamid64": "76561198304122337",
-				"source_job": "Enclave Council Member"
+				"source_job": "Staff Team"
 			},
 			{
 				"item_key": "mvp_perfecthands",
@@ -2213,7 +2213,7 @@
 				"dropped": "0",
 				"display_name": "Perfect Hands",
 				"steamid64": "76561198304122337",
-				"source_job": "Enclave Council Member"
+				"source_job": "Staff Team"
 			},
 			{
 				"item_key": "weapon_lscs",
@@ -2393,7 +2393,7 @@
 				"dropped": "0",
 				"display_name": "Perfect Hands",
 				"steamid64": "76561199368362354",
-				"source_job": "Shock Commander"
+				"source_job": "Event Team"
 			},
 			{
 				"item_key": "bkeycard",
@@ -2402,7 +2402,7 @@
 				"dropped": "0",
 				"display_name": "#bKeypads_Keycard",
 				"steamid64": "76561199368362354",
-				"source_job": "Shock Commander"
+				"source_job": "Event Team"
 			},
 			{
 				"item_key": "arccw_dc17m_v2",
@@ -3680,7 +3680,7 @@
 				"dropped": "0",
 				"display_name": "#bKeypads_Keycard",
 				"steamid64": "76561199580803857",
-				"source_job": "Shock Riot Trooper"
+				"source_job": "Shock XO"
 			},
 			{
 				"item_key": "mvp_perfecthands",
@@ -3689,7 +3689,7 @@
 				"dropped": "0",
 				"display_name": "Perfect Hands",
 				"steamid64": "76561199580803857",
-				"source_job": "Shock Riot Trooper"
+				"source_job": "Shock XO"
 			},
 			{
 				"item_key": "arccw_dc15a_original",
@@ -3996,6 +3996,546 @@
 				"display_name": "#bKeypads_Keycard",
 				"steamid64": "76561199054005619",
 				"source_job": "Clone Recruit"
+			},
+			{
+				"item_key": "bkeycard",
+				"equipped": "1",
+				"acquired_at": "1785694656",
+				"dropped": "0",
+				"display_name": "#bKeypads_Keycard",
+				"steamid64": "76561198807602991",
+				"source_job": "Keller Unit"
+			},
+			{
+				"item_key": "mvp_perfecthands",
+				"equipped": "1",
+				"acquired_at": "1785694656",
+				"dropped": "0",
+				"display_name": "Perfect Hands",
+				"steamid64": "76561198807602991",
+				"source_job": "Keller Unit"
+			},
+			{
+				"item_key": "arccw_k_nade_c14",
+				"equipped": "1",
+				"acquired_at": "1785700881",
+				"dropped": "0",
+				"display_name": "C-14 Anti-Vehicle Grenade",
+				"steamid64": "76561198169568416",
+				"source_job": "Staff Team"
+			},
+			{
+				"item_key": "arccw_dc15a_original",
+				"equipped": "1",
+				"acquired_at": "1785702274",
+				"dropped": "0",
+				"display_name": "DC-15A (Original)",
+				"steamid64": "76561198807602991",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc15s_v2",
+				"equipped": "1",
+				"acquired_at": "1785702274",
+				"dropped": "0",
+				"display_name": "DC-15s",
+				"steamid64": "76561198807602991",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc17ext_v2",
+				"equipped": "1",
+				"acquired_at": "1785702274",
+				"dropped": "0",
+				"display_name": "DC-17 Extended",
+				"steamid64": "76561198807602991",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_k_dc15a_grenadier",
+				"equipped": "1",
+				"acquired_at": "1785711833",
+				"dropped": "0",
+				"display_name": "DC-15a Grenadier",
+				"steamid64": "76561198807602991",
+				"source_job": "Jet Unit Trooper"
+			},
+			{
+				"item_key": "arccw_k_dp23c",
+				"equipped": "1",
+				"acquired_at": "1785711833",
+				"dropped": "0",
+				"display_name": "DP-23c",
+				"steamid64": "76561198807602991",
+				"source_job": "Keller Unit"
+			},
+			{
+				"item_key": "weapon_lscs_shockstaff",
+				"equipped": "1",
+				"acquired_at": "1785713218",
+				"dropped": "0",
+				"display_name": "Shock Electrostaff",
+				"steamid64": "76561197996527644",
+				"source_job": "Shock Riot Trooper"
+			},
+			{
+				"item_key": "item_stance_saberstaff",
+				"equipped": "1",
+				"acquired_at": "1785713218",
+				"dropped": "0",
+				"display_name": "Item stance saberstaff",
+				"steamid64": "76561197996527644",
+				"source_job": "Shock Riot Trooper"
+			},
+			{
+				"item_key": "mvp_perfecthands",
+				"equipped": "1",
+				"acquired_at": "1785719816",
+				"dropped": "0",
+				"display_name": "Perfect Hands",
+				"steamid64": "76561199564965469",
+				"source_job": "Clone Recruit"
+			},
+			{
+				"item_key": "bkeycard",
+				"equipped": "1",
+				"acquired_at": "1785719816",
+				"dropped": "0",
+				"display_name": "#bKeypads_Keycard",
+				"steamid64": "76561199564965469",
+				"source_job": "Clone Recruit"
+			},
+			{
+				"item_key": "arccw_k_dp24",
+				"equipped": "1",
+				"acquired_at": "1785725437",
+				"dropped": "0",
+				"display_name": "DP-24",
+				"steamid64": "76561198807602991",
+				"source_job": "Keller Unit"
+			},
+			{
+				"item_key": "arccw_k_dc17_akimbo",
+				"equipped": "1",
+				"acquired_at": "1785725437",
+				"dropped": "0",
+				"display_name": "Dual DC-17",
+				"steamid64": "76561198807602991",
+				"source_job": "Keller Unit"
+			},
+			{
+				"item_key": "weapon_qboard_slam",
+				"equipped": "1",
+				"acquired_at": "1785725437",
+				"dropped": "0",
+				"display_name": "Boarding Equipment",
+				"steamid64": "76561198807602991",
+				"source_job": "Keller Unit"
+			},
+			{
+				"item_key": "weapon_lscs_shockstaff",
+				"equipped": "1",
+				"acquired_at": "1785758518",
+				"dropped": "0",
+				"display_name": "Shock Electrostaff",
+				"steamid64": "76561198715182538",
+				"source_job": "Shock Riot Trooper"
+			},
+			{
+				"item_key": "item_stance_saberstaff",
+				"equipped": "1",
+				"acquired_at": "1785758518",
+				"dropped": "0",
+				"display_name": "Item stance saberstaff",
+				"steamid64": "76561198715182538",
+				"source_job": "Shock Riot Trooper"
+			},
+			{
+				"item_key": "mvp_perfecthands",
+				"equipped": "1",
+				"acquired_at": "1785786933",
+				"dropped": "0",
+				"display_name": "Perfect Hands",
+				"steamid64": "76561198249588786",
+				"source_job": "501st Trooper"
+			},
+			{
+				"item_key": "bkeycard",
+				"equipped": "1",
+				"acquired_at": "1785786933",
+				"dropped": "0",
+				"display_name": "#bKeypads_Keycard",
+				"steamid64": "76561198249588786",
+				"source_job": "501st Trooper"
+			},
+			{
+				"item_key": "arccw_dc15a_original",
+				"equipped": "1",
+				"acquired_at": "1785787532",
+				"dropped": "0",
+				"display_name": "DC-15A (Original)",
+				"steamid64": "76561198249588786",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc15s_v2",
+				"equipped": "1",
+				"acquired_at": "1785787532",
+				"dropped": "0",
+				"display_name": "DC-15s",
+				"steamid64": "76561198249588786",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc17ext_v2",
+				"equipped": "1",
+				"acquired_at": "1785787532",
+				"dropped": "0",
+				"display_name": "DC-17 Extended",
+				"steamid64": "76561198249588786",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_k_dc17ext",
+				"equipped": "1",
+				"acquired_at": "1785790085",
+				"dropped": "0",
+				"display_name": "DC-17 Extended",
+				"steamid64": "76561198249588786",
+				"source_job": "501st Trooper"
+			},
+			{
+				"item_key": "arccw_k_dc15le",
+				"equipped": "1",
+				"acquired_at": "1785790085",
+				"dropped": "0",
+				"display_name": "DC-15le",
+				"steamid64": "76561198249588786",
+				"source_job": "501st Trooper"
+			},
+			{
+				"item_key": "arccw_k_dp23",
+				"equipped": "1",
+				"acquired_at": "1785790085",
+				"dropped": "0",
+				"display_name": "DP-23",
+				"steamid64": "76561198249588786",
+				"source_job": "501st Trooper"
+			},
+			{
+				"item_key": "arccw_k_nade_thermal",
+				"equipped": "1",
+				"acquired_at": "1785790085",
+				"dropped": "0",
+				"display_name": "Class-A Thermal Detonator",
+				"steamid64": "76561198249588786",
+				"source_job": "501st Trooper"
+			},
+			{
+				"item_key": "weapon_lscs_shockstaff",
+				"equipped": "1",
+				"acquired_at": "1785790285",
+				"dropped": "0",
+				"display_name": "Shock Electrostaff",
+				"steamid64": "76561198701366469",
+				"source_job": "Shock Riot Trooper"
+			},
+			{
+				"item_key": "item_stance_saberstaff",
+				"equipped": "1",
+				"acquired_at": "1785790285",
+				"dropped": "0",
+				"display_name": "Item stance saberstaff",
+				"steamid64": "76561198701366469",
+				"source_job": "Shock Riot Trooper"
+			},
+			{
+				"item_key": "weapon_lscs",
+				"equipped": "1",
+				"acquired_at": "1785792323",
+				"dropped": "0",
+				"display_name": "#lscsGlowstick",
+				"steamid64": "76561199368362354",
+				"source_job": "management"
+			},
+			{
+				"item_key": "arccw_k_dc17sa_dual",
+				"equipped": "1",
+				"acquired_at": "1785792660",
+				"dropped": "0",
+				"display_name": "Dual DC-17sa",
+				"steamid64": "76561199368362354",
+				"source_job": "Shock Commissioned Officer"
+			},
+			{
+				"item_key": "arccw_k_dc15s_stun",
+				"equipped": "1",
+				"acquired_at": "1785792660",
+				"dropped": "0",
+				"display_name": "DC-15s Stun",
+				"steamid64": "76561199368362354",
+				"source_job": "Shock Commissioned Officer"
+			},
+			{
+				"item_key": "arccw_k_dc15a",
+				"equipped": "1",
+				"acquired_at": "1785792660",
+				"dropped": "0",
+				"display_name": "DC-15a",
+				"steamid64": "76561199368362354",
+				"source_job": "Shock Commissioned Officer"
+			},
+			{
+				"item_key": "arccw_k_dc17ext",
+				"equipped": "1",
+				"acquired_at": "1785792679",
+				"dropped": "0",
+				"display_name": "DC-17 Extended",
+				"steamid64": "76561199368362354",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_dc15le",
+				"equipped": "1",
+				"acquired_at": "1785792679",
+				"dropped": "0",
+				"display_name": "DC-15le",
+				"steamid64": "76561199368362354",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_dp23",
+				"equipped": "1",
+				"acquired_at": "1785792679",
+				"dropped": "0",
+				"display_name": "DP-23",
+				"steamid64": "76561199368362354",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_nade_thermal",
+				"equipped": "1",
+				"acquired_at": "1785792679",
+				"dropped": "0",
+				"display_name": "Class-A Thermal Detonator",
+				"steamid64": "76561199368362354",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_dc17sa_dual",
+				"equipped": "1",
+				"acquired_at": "1785792829",
+				"dropped": "0",
+				"display_name": "Dual DC-17sa",
+				"steamid64": "76561199580803857",
+				"source_job": "Shock XO"
+			},
+			{
+				"item_key": "arccw_k_dc15s_stun",
+				"equipped": "1",
+				"acquired_at": "1785792829",
+				"dropped": "0",
+				"display_name": "DC-15s Stun",
+				"steamid64": "76561199580803857",
+				"source_job": "Shock XO"
+			},
+			{
+				"item_key": "arccw_k_dc15a",
+				"equipped": "1",
+				"acquired_at": "1785792829",
+				"dropped": "0",
+				"display_name": "DC-15a",
+				"steamid64": "76561199580803857",
+				"source_job": "Shock XO"
+			},
+			{
+				"item_key": "arccw_k_dc17s",
+				"equipped": "1",
+				"acquired_at": "1785794664",
+				"dropped": "0",
+				"display_name": "DC-17s",
+				"steamid64": "76561198807602991",
+				"source_job": "Jet Unit Trooper"
+			},
+			{
+				"item_key": "cw_flamethrower",
+				"equipped": "1",
+				"acquired_at": "1785794664",
+				"dropped": "0",
+				"display_name": "BT-X-42 Flamethrower",
+				"steamid64": "76561198807602991",
+				"source_job": "Jet Unit Trooper"
+			},
+			{
+				"item_key": "arccw_nade_inc",
+				"equipped": "1",
+				"acquired_at": "1785794664",
+				"dropped": "0",
+				"display_name": "Incendiary Grenade",
+				"steamid64": "76561198807602991",
+				"source_job": "Jet Unit Trooper"
+			},
+			{
+				"item_key": "arccw_k_dc17ext",
+				"equipped": "1",
+				"acquired_at": "1785801409",
+				"dropped": "0",
+				"display_name": "DC-17 Extended",
+				"steamid64": "76561198304122337",
+				"source_job": "Staff Team"
+			},
+			{
+				"item_key": "arccw_k_dc15le",
+				"equipped": "1",
+				"acquired_at": "1785801409",
+				"dropped": "0",
+				"display_name": "DC-15le",
+				"steamid64": "76561198304122337",
+				"source_job": "Staff Team"
+			},
+			{
+				"item_key": "arccw_k_dp23",
+				"equipped": "1",
+				"acquired_at": "1785801409",
+				"dropped": "0",
+				"display_name": "DP-23",
+				"steamid64": "76561198304122337",
+				"source_job": "Staff Team"
+			},
+			{
+				"item_key": "arccw_k_nade_c14",
+				"equipped": "1",
+				"acquired_at": "1785801409",
+				"dropped": "0",
+				"display_name": "C-14 Anti-Vehicle Grenade",
+				"steamid64": "76561198304122337",
+				"source_job": "Staff Team"
+			},
+			{
+				"item_key": "arccw_k_nade_thermal",
+				"equipped": "1",
+				"acquired_at": "1785801409",
+				"dropped": "0",
+				"display_name": "Class-A Thermal Detonator",
+				"steamid64": "76561198304122337",
+				"source_job": "Staff Team"
+			},
+			{
+				"item_key": "mvp_perfecthands",
+				"equipped": "1",
+				"acquired_at": "1785827622",
+				"dropped": "0",
+				"display_name": "Perfect Hands",
+				"steamid64": "76561199853732863",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "bkeycard",
+				"equipped": "1",
+				"acquired_at": "1785827622",
+				"dropped": "0",
+				"display_name": "#bKeypads_Keycard",
+				"steamid64": "76561199853732863",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc15a_original",
+				"equipped": "1",
+				"acquired_at": "1785828647",
+				"dropped": "0",
+				"display_name": "DC-15A (Original)",
+				"steamid64": "76561199853732863",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc15s_v2",
+				"equipped": "1",
+				"acquired_at": "1785828647",
+				"dropped": "0",
+				"display_name": "DC-15s",
+				"steamid64": "76561199853732863",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_dc17ext_v2",
+				"equipped": "1",
+				"acquired_at": "1785828647",
+				"dropped": "0",
+				"display_name": "DC-17 Extended",
+				"steamid64": "76561199853732863",
+				"source_job": "Clone Trooper"
+			},
+			{
+				"item_key": "arccw_k_dc17ext_akimbo",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "Dual DC-17 Extended",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_dc17m_rifle_republic",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "DC-17m Rifle",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_nt242",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "NT-242",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_nade_c14",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "C-14 Anti-Vehicle Grenade",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_nade_thermal",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "Class-A Thermal Detonator",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "jet_mk6",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "Jetpack Infinite Fuel",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "weapon_grn_defib",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "Defibrillator",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
+			},
+			{
+				"item_key": "arccw_k_nade_bacta",
+				"equipped": "1",
+				"acquired_at": "1785876778",
+				"dropped": "0",
+				"display_name": "Bacta Grenade",
+				"steamid64": "76561199002802022",
+				"source_job": "Event Team"
 			}
 		],
 		"gar_xp_player_milestones": [
@@ -6398,6 +6938,176 @@
 				"earned_at": "1785294877",
 				"steamid64": "76561198169568416",
 				"milestone_id": "10"
+			},
+			{
+				"earned_at": "1785715621",
+				"steamid64": "76561198807602991",
+				"milestone_id": "6"
+			},
+			{
+				"earned_at": "1785715933",
+				"steamid64": "76561198807602991",
+				"milestone_id": "7"
+			},
+			{
+				"earned_at": "1785716105",
+				"steamid64": "76561198807602991",
+				"milestone_id": "8"
+			},
+			{
+				"earned_at": "1785716142",
+				"steamid64": "76561198807602991",
+				"milestone_id": "13"
+			},
+			{
+				"earned_at": "1785716142",
+				"steamid64": "76561198807602991",
+				"milestone_id": "14"
+			},
+			{
+				"earned_at": "1785716269",
+				"steamid64": "76561198807602991",
+				"milestone_id": "15"
+			},
+			{
+				"earned_at": "1785716694",
+				"steamid64": "76561199184506005",
+				"milestone_id": "2"
+			},
+			{
+				"earned_at": "1785717067",
+				"steamid64": "76561199275712681",
+				"milestone_id": "9"
+			},
+			{
+				"earned_at": "1785717101",
+				"steamid64": "76561198807602991",
+				"milestone_id": "9"
+			},
+			{
+				"earned_at": "1785717123",
+				"steamid64": "76561198807602991",
+				"milestone_id": "16"
+			},
+			{
+				"earned_at": "1785717133",
+				"steamid64": "76561199122342705",
+				"milestone_id": "12"
+			},
+			{
+				"earned_at": "1785787405",
+				"steamid64": "76561198807602991",
+				"milestone_id": "17"
+			},
+			{
+				"earned_at": "1785787405",
+				"steamid64": "76561198807602991",
+				"milestone_id": "18"
+			},
+			{
+				"earned_at": "1785787405",
+				"steamid64": "76561198807602991",
+				"milestone_id": "19"
+			},
+			{
+				"earned_at": "1785787465",
+				"steamid64": "76561198807602991",
+				"milestone_id": "4"
+			},
+			{
+				"earned_at": "1785787885",
+				"steamid64": "76561198249588786",
+				"milestone_id": "13"
+			},
+			{
+				"earned_at": "1785787885",
+				"steamid64": "76561198249588786",
+				"milestone_id": "14"
+			},
+			{
+				"earned_at": "1785787945",
+				"steamid64": "76561198249588786",
+				"milestone_id": "15"
+			},
+			{
+				"earned_at": "1785788185",
+				"steamid64": "76561198249588786",
+				"milestone_id": "16"
+			},
+			{
+				"earned_at": "1785788362",
+				"steamid64": "76561198249588786",
+				"milestone_id": "6"
+			},
+			{
+				"earned_at": "1785788425",
+				"steamid64": "76561198249588786",
+				"milestone_id": "17"
+			},
+			{
+				"earned_at": "1785811239",
+				"steamid64": "76561199580803857",
+				"milestone_id": "10"
+			},
+			{
+				"earned_at": "1785813455",
+				"steamid64": "76561199580803857",
+				"milestone_id": "5"
+			},
+			{
+				"earned_at": "1785829992",
+				"steamid64": "76561199853732863",
+				"milestone_id": "13"
+			},
+			{
+				"earned_at": "1785830858",
+				"steamid64": "76561199853732863",
+				"milestone_id": "14"
+			},
+			{
+				"earned_at": "1785830887",
+				"steamid64": "76561199853732863",
+				"milestone_id": "6"
+			},
+			{
+				"earned_at": "1785873004",
+				"steamid64": "76561199853732863",
+				"milestone_id": "15"
+			},
+			{
+				"earned_at": "1785873130",
+				"steamid64": "76561199853732863",
+				"milestone_id": "16"
+			},
+			{
+				"earned_at": "1785873253",
+				"steamid64": "76561199853732863",
+				"milestone_id": "17"
+			},
+			{
+				"earned_at": "1785873532",
+				"steamid64": "76561199853732863",
+				"milestone_id": "7"
+			},
+			{
+				"earned_at": "1785873673",
+				"steamid64": "76561199853732863",
+				"milestone_id": "18"
+			},
+			{
+				"earned_at": "1785873999",
+				"steamid64": "76561199853732863",
+				"milestone_id": "19"
+			},
+			{
+				"earned_at": "1785874544",
+				"steamid64": "76561199853732863",
+				"milestone_id": "8"
+			},
+			{
+				"earned_at": "1785875268",
+				"steamid64": "76561199853732863",
+				"milestone_id": "4"
 			}
 		],
 		"gar_xp_players": [
@@ -6419,16 +7129,16 @@
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "10",
-				"damage_taken": "16987913",
-				"playtime_minutes": "1856",
-				"last_seen": "1785299490",
+				"assists": "18",
+				"damage_taken": "17241886",
+				"playtime_minutes": "1888",
+				"last_seen": "1785877622",
 				"player_kills": "18",
 				"prestige": "0",
-				"npc_kills": "753",
-				"deaths": "106",
-				"kills_total": "771",
-				"total_xp": "5135",
+				"npc_kills": "754",
+				"deaths": "142",
+				"kills_total": "772",
+				"total_xp": "5190",
 				"current_title": "Spartan",
 				"steamid64": "76561199002802022",
 				"name": "12th SNTL XO NVCMDR Girt"
@@ -6436,31 +7146,31 @@
 			{
 				"dev_rank_id": "NULL",
 				"assists": "52",
-				"damage_taken": "27321171",
-				"playtime_minutes": "5710",
-				"last_seen": "1785632029",
-				"player_kills": "59",
+				"damage_taken": "27339988",
+				"playtime_minutes": "6275",
+				"last_seen": "1785812761",
+				"player_kills": "62",
 				"prestige": "0",
-				"npc_kills": "1847",
-				"deaths": "214",
-				"kills_total": "1906",
-				"total_xp": "14520",
+				"npc_kills": "2194",
+				"deaths": "217",
+				"kills_total": "2256",
+				"total_xp": "19265",
 				"current_title": "Spartan",
 				"steamid64": "76561199122342705",
 				"name": "21st Commander Shadow"
 			},
 			{
 				"dev_rank_id": "3",
-				"assists": "137",
-				"damage_taken": "89366117",
-				"playtime_minutes": "10803",
-				"last_seen": "1785644630",
-				"player_kills": "160",
+				"assists": "153",
+				"damage_taken": "89758099",
+				"playtime_minutes": "12500",
+				"last_seen": "1785877622",
+				"player_kills": "178",
 				"prestige": "0",
-				"npc_kills": "4582",
-				"deaths": "200",
-				"kills_total": "4742",
-				"total_xp": "36135",
+				"npc_kills": "4849",
+				"deaths": "241",
+				"kills_total": "5027",
+				"total_xp": "40100",
 				"current_title": "Spartan",
 				"steamid64": "76561198267725032",
 				"name": "Marshal Commander Grizzly"
@@ -6468,34 +7178,34 @@
 			{
 				"dev_rank_id": "1",
 				"assists": "4",
-				"damage_taken": "211936",
-				"playtime_minutes": "1724",
-				"last_seen": "1785644630",
-				"player_kills": "40",
+				"damage_taken": "212157",
+				"playtime_minutes": "1831",
+				"last_seen": "1785877622",
+				"player_kills": "43",
 				"prestige": "0",
 				"npc_kills": "387",
 				"deaths": "22",
-				"kills_total": "427",
-				"total_xp": "5405",
+				"kills_total": "430",
+				"total_xp": "5465",
 				"current_title": "Super Trooper",
 				"steamid64": "76561198110384843",
 				"name": "Tarkas Monn"
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "3",
-				"damage_taken": "58138",
-				"playtime_minutes": "2256",
-				"last_seen": "1785299730",
-				"player_kills": "8",
+				"assists": "4",
+				"damage_taken": "135614",
+				"playtime_minutes": "2377",
+				"last_seen": "1785815493",
+				"player_kills": "10",
 				"prestige": "0",
-				"npc_kills": "480",
-				"deaths": "88",
-				"kills_total": "488",
-				"total_xp": "3435",
-				"current_title": "The Sponge",
+				"npc_kills": "596",
+				"deaths": "111",
+				"kills_total": "606",
+				"total_xp": "5200",
+				"current_title": "Spartan",
 				"steamid64": "76561199580803857",
-				"name": "CG SNTL 1SGT ROITLD KRAKEN"
+				"name": "CG XO 2LT RIOTLD KRAKEN"
 			},
 			{
 				"dev_rank_id": "NULL",
@@ -6533,8 +7243,8 @@
 				"dev_rank_id": "NULL",
 				"assists": "10",
 				"damage_taken": "56313",
-				"playtime_minutes": "2509",
-				"last_seen": "1785614149",
+				"playtime_minutes": "2603",
+				"last_seen": "1785705840",
 				"player_kills": "1",
 				"prestige": "0",
 				"npc_kills": "599",
@@ -6549,8 +7259,8 @@
 				"dev_rank_id": "NULL",
 				"assists": "3",
 				"damage_taken": "227727",
-				"playtime_minutes": "1670",
-				"last_seen": "1785022413",
+				"playtime_minutes": "1776",
+				"last_seen": "1785798625",
 				"player_kills": "8",
 				"prestige": "0",
 				"npc_kills": "236",
@@ -6559,20 +7269,20 @@
 				"total_xp": "2295",
 				"current_title": "Wet Paper Bag",
 				"steamid64": "76561199368362354",
-				"name": "Commander Midra"
+				"name": "12th LCM TIME"
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "74",
-				"damage_taken": "2268024514",
-				"playtime_minutes": "2673",
-				"last_seen": "1785644630",
-				"player_kills": "41",
+				"assists": "77",
+				"damage_taken": "2268077350",
+				"playtime_minutes": "4261",
+				"last_seen": "1785877622",
+				"player_kills": "46",
 				"prestige": "0",
 				"npc_kills": "380",
-				"deaths": "235",
-				"kills_total": "421",
-				"total_xp": "4940",
+				"deaths": "260",
+				"kills_total": "426",
+				"total_xp": "5055",
 				"current_title": "Wet Paper Bag",
 				"steamid64": "76561198176173741",
 				"name": "Shock Commander Cardboard"
@@ -6596,9 +7306,9 @@
 			{
 				"dev_rank_id": "NULL",
 				"assists": "0",
-				"damage_taken": "67041",
-				"playtime_minutes": "1670",
-				"last_seen": "1785220315",
+				"damage_taken": "67079",
+				"playtime_minutes": "1877",
+				"last_seen": "1785801409",
 				"player_kills": "1",
 				"prestige": "0",
 				"npc_kills": "676",
@@ -6627,16 +7337,16 @@
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "19",
-				"damage_taken": "9588764",
-				"playtime_minutes": "9722",
-				"last_seen": "1785614569",
+				"assists": "23",
+				"damage_taken": "9684788",
+				"playtime_minutes": "10548",
+				"last_seen": "1785877622",
 				"player_kills": "49",
 				"prestige": "0",
-				"npc_kills": "1236",
-				"deaths": "106",
-				"kills_total": "1285",
-				"total_xp": "9415",
+				"npc_kills": "1397",
+				"deaths": "115",
+				"kills_total": "1446",
+				"total_xp": "10540",
 				"current_title": "Wet Paper Bag",
 				"steamid64": "76561198142441964",
 				"name": "501st Commander Lunaris"
@@ -6676,18 +7386,18 @@
 			{
 				"dev_rank_id": "NULL",
 				"assists": "53",
-				"damage_taken": "493164",
-				"playtime_minutes": "5165",
-				"last_seen": "1785299490",
+				"damage_taken": "495054",
+				"playtime_minutes": "5285",
+				"last_seen": "1785720789",
 				"player_kills": "20",
 				"prestige": "0",
-				"npc_kills": "1450",
+				"npc_kills": "1621",
 				"deaths": "258",
-				"kills_total": "1470",
-				"total_xp": "13215",
+				"kills_total": "1641",
+				"total_xp": "15780",
 				"current_title": "21st Medal Of Valor",
 				"steamid64": "76561199184506005",
-				"name": "21st XO WO Doran"
+				"name": "21st XO 2LT Doran"
 			},
 			{
 				"dev_rank_id": "NULL",
@@ -6915,16 +7625,16 @@
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "2",
-				"damage_taken": "31380",
-				"playtime_minutes": "2479",
-				"last_seen": "1785617809",
+				"assists": "4",
+				"damage_taken": "45561",
+				"playtime_minutes": "2619",
+				"last_seen": "1785690565",
 				"player_kills": "0",
 				"prestige": "0",
 				"npc_kills": "196",
-				"deaths": "14",
+				"deaths": "20",
 				"kills_total": "196",
-				"total_xp": "1770",
+				"total_xp": "1780",
 				"current_title": "Super Trooper",
 				"steamid64": "76561199229690250",
 				"name": "12th Fleet LCM Cryo"
@@ -6980,9 +7690,9 @@
 			{
 				"dev_rank_id": "NULL",
 				"assists": "7",
-				"damage_taken": "33325",
-				"playtime_minutes": "1235",
-				"last_seen": "1785556198",
+				"damage_taken": "33990",
+				"playtime_minutes": "1329",
+				"last_seen": "1785802354",
 				"player_kills": "2",
 				"prestige": "0",
 				"npc_kills": "889",
@@ -7123,19 +7833,19 @@
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "12",
-				"damage_taken": "58872",
-				"playtime_minutes": "1694",
-				"last_seen": "1785642050",
+				"assists": "13",
+				"damage_taken": "68518",
+				"playtime_minutes": "1972",
+				"last_seen": "1785876073",
 				"player_kills": "7",
 				"prestige": "0",
-				"npc_kills": "188",
-				"deaths": "70",
-				"kills_total": "195",
-				"total_xp": "2160",
+				"npc_kills": "373",
+				"deaths": "76",
+				"kills_total": "380",
+				"total_xp": "4380",
 				"current_title": "Wet Paper Bag",
 				"steamid64": "76561199275712681",
-				"name": "21st Medic  SSGT Frosttie"
+				"name": "21st Medic SFC Frosttie"
 			},
 			{
 				"dev_rank_id": "NULL",
@@ -7155,35 +7865,35 @@
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "3",
-				"damage_taken": "39691",
-				"playtime_minutes": "685",
-				"last_seen": "1785299734",
-				"player_kills": "14",
+				"assists": "4",
+				"damage_taken": "39807",
+				"playtime_minutes": "763",
+				"last_seen": "1785794065",
+				"player_kills": "19",
 				"prestige": "0",
 				"npc_kills": "167",
-				"deaths": "54",
-				"kills_total": "181",
-				"total_xp": "2160",
+				"deaths": "55",
+				"kills_total": "186",
+				"total_xp": "2265",
 				"current_title": "Wet Paper Bag",
 				"steamid64": "76561198715182538",
-				"name": "CG SSGT Riot Hexx"
+				"name": "CG SFC Riot Hexx"
 			},
 			{
 				"dev_rank_id": "NULL",
-				"assists": "8",
-				"damage_taken": "47594",
-				"playtime_minutes": "690",
-				"last_seen": "1785299730",
-				"player_kills": "2",
+				"assists": "9",
+				"damage_taken": "50138",
+				"playtime_minutes": "754",
+				"last_seen": "1785794028",
+				"player_kills": "3",
 				"prestige": "0",
 				"npc_kills": "63",
-				"deaths": "55",
-				"kills_total": "65",
-				"total_xp": "995",
+				"deaths": "59",
+				"kills_total": "66",
+				"total_xp": "1020",
 				"current_title": "Wet Paper Bag",
 				"steamid64": "76561198701366469",
-				"name": "CG SSGT RiotXO Veetch"
+				"name": "CG SFC RiotXO Veetch"
 			},
 			{
 				"dev_rank_id": "NULL",
@@ -7360,6 +8070,70 @@
 				"current_title": "",
 				"steamid64": "76561199054005619",
 				"name": "Key-bored"
+			},
+			{
+				"dev_rank_id": "NULL",
+				"assists": "0",
+				"damage_taken": "13409",
+				"playtime_minutes": "506",
+				"last_seen": "1785876073",
+				"player_kills": "1",
+				"prestige": "0",
+				"npc_kills": "372",
+				"deaths": "14",
+				"kills_total": "373",
+				"total_xp": "5550",
+				"current_title": "FNG",
+				"steamid64": "76561198807602991",
+				"name": "21st KT LCPL Hoovy"
+			},
+			{
+				"dev_rank_id": "NULL",
+				"assists": "0",
+				"damage_taken": "0",
+				"playtime_minutes": "2",
+				"last_seen": "1785719889",
+				"player_kills": "0",
+				"prestige": "0",
+				"npc_kills": "0",
+				"deaths": "0",
+				"kills_total": "0",
+				"total_xp": "0",
+				"current_title": "",
+				"steamid64": "76561199564965469",
+				"name": "vezzy"
+			},
+			{
+				"dev_rank_id": "NULL",
+				"assists": "0",
+				"damage_taken": "1628",
+				"playtime_minutes": "165",
+				"last_seen": "1785807299",
+				"player_kills": "0",
+				"prestige": "0",
+				"npc_kills": "40",
+				"deaths": "3",
+				"kills_total": "40",
+				"total_xp": "540",
+				"current_title": "Wet Paper Bag",
+				"steamid64": "76561198249588786",
+				"name": "501st PVT 6867 Gozu"
+			},
+			{
+				"dev_rank_id": "NULL",
+				"assists": "1",
+				"damage_taken": "6395",
+				"playtime_minutes": "137",
+				"last_seen": "1785877442",
+				"player_kills": "1",
+				"prestige": "0",
+				"npc_kills": "168",
+				"deaths": "13",
+				"kills_total": "169",
+				"total_xp": "1555",
+				"current_title": "Wet Paper Bag",
+				"steamid64": "76561199853732863",
+				"name": "CT 1827 PFC Danno"
 			}
 		],
 		"gar_cert_seen_players": [
@@ -7419,11 +8193,6 @@
 				"name": "John Super Daryl"
 			},
 			{
-				"last_seen": "1785021410",
-				"steamid64": "76561199368362354",
-				"name": "Commander Midra"
-			},
-			{
 				"last_seen": "1785109633",
 				"steamid64": "76561199229844524",
 				"name": "BluTheRainwing"
@@ -7464,16 +8233,6 @@
 				"name": "21st JU CC 1993 LCPL Jet"
 			},
 			{
-				"last_seen": "1785209110",
-				"steamid64": "76561198304122337",
-				"name": "Kylon Varis"
-			},
-			{
-				"last_seen": "1785284717",
-				"steamid64": "76561199184506005",
-				"name": "21st XO WO Doran"
-			},
-			{
 				"last_seen": "1785286885",
 				"steamid64": "76561199886212629",
 				"name": "hadverse"
@@ -7484,29 +8243,9 @@
 				"name": "Old Man Perrywinkle"
 			},
 			{
-				"last_seen": "1785290180",
-				"steamid64": "76561198715182538",
-				"name": "CG SGT Hexx"
-			},
-			{
 				"last_seen": "1785290234",
 				"steamid64": "76561198321425015",
 				"name": "501st PVT Speeedy Flash"
-			},
-			{
-				"last_seen": "1785290329",
-				"steamid64": "76561198701366469",
-				"name": "CG SGT Veetch"
-			},
-			{
-				"last_seen": "1785293565",
-				"steamid64": "76561199580803857",
-				"name": "CG SNTL MSGT ROITLD KRAKEN"
-			},
-			{
-				"last_seen": "1785295929",
-				"steamid64": "76561199002802022",
-				"name": "12th SNTL XO NVCMDR Girt"
 			},
 			{
 				"last_seen": "1785542586",
@@ -7519,24 +8258,9 @@
 				"name": "12th Fleet Rear Admiral Cell"
 			},
 			{
-				"last_seen": "1785552505",
-				"steamid64": "76561197996527644",
-				"name": "CG CPL Riot Puppet"
-			},
-			{
 				"last_seen": "1785595570",
 				"steamid64": "76561198829772719",
 				"name": "Bears269"
-			},
-			{
-				"last_seen": "1785609818",
-				"steamid64": "76561198142441964",
-				"name": "501st Commander Lunaris"
-			},
-			{
-				"last_seen": "1785610715",
-				"steamid64": "76561198169568416",
-				"name": "501st Sergeant Evan"
 			},
 			{
 				"last_seen": "1785613585",
@@ -7549,19 +8273,9 @@
 				"name": "CG CPL Juicey"
 			},
 			{
-				"last_seen": "1785616220",
-				"steamid64": "76561199229690250",
-				"name": "12th Fleet LCM Cryo"
-			},
-			{
 				"last_seen": "1785629252",
 				"steamid64": "76561198416535674",
 				"name": "CT 5553 gunhawk"
-			},
-			{
-				"last_seen": "1785630499",
-				"steamid64": "76561199122342705",
-				"name": "21st Commander Shadow"
 			},
 			{
 				"last_seen": "1785635348",
@@ -7569,27 +8283,107 @@
 				"name": "Key-bored"
 			},
 			{
-				"last_seen": "1785641362",
-				"steamid64": "76561198176173741",
-				"name": "Shock Commander Cardboard"
-			},
-			{
-				"last_seen": "1785641459",
-				"steamid64": "76561198267725032",
-				"name": "Marshal Commander Grizzly"
-			},
-			{
-				"last_seen": "1785641514",
-				"steamid64": "76561199275712681",
-				"name": "21st Medic  SSGT Frosttie"
-			},
-			{
 				"last_seen": "1785641591",
 				"steamid64": "76561199089320420",
 				"name": "501st XO LC Li"
 			},
 			{
-				"last_seen": "1785644107",
+				"last_seen": "1785683316",
+				"steamid64": "76561199229690250",
+				"name": "12th Fleet LCM Cryo"
+			},
+			{
+				"last_seen": "1785700881",
+				"steamid64": "76561198169568416",
+				"name": "501st Sergeant Evan"
+			},
+			{
+				"last_seen": "1785714938",
+				"steamid64": "76561199184506005",
+				"name": "21st XO WO Doran"
+			},
+			{
+				"last_seen": "1785719816",
+				"steamid64": "76561199564965469",
+				"name": "vezzy"
+			},
+			{
+				"last_seen": "1785790168",
+				"steamid64": "76561198701366469",
+				"name": "CG SFC RiotXO Veetch"
+			},
+			{
+				"last_seen": "1785790604",
+				"steamid64": "76561198715182538",
+				"name": "CG SFC Riot Hexx"
+			},
+			{
+				"last_seen": "1785792323",
+				"steamid64": "76561199368362354",
+				"name": "12th LCM TIME"
+			},
+			{
+				"last_seen": "1785801409",
+				"steamid64": "76561198304122337",
+				"name": "Kylon Varis"
+			},
+			{
+				"last_seen": "1785802078",
+				"steamid64": "76561197996527644",
+				"name": "CG CPL Riot Puppet"
+			},
+			{
+				"last_seen": "1785806912",
+				"steamid64": "76561198249588786",
+				"name": "501st PVT 6867 Gozu"
+			},
+			{
+				"last_seen": "1785809746",
+				"steamid64": "76561199122342705",
+				"name": "21st Commander Shadow"
+			},
+			{
+				"last_seen": "1785814761",
+				"steamid64": "76561199580803857",
+				"name": "CG XO 2LT RIOTLD KRAKEN"
+			},
+			{
+				"last_seen": "1785871702",
+				"steamid64": "76561198807602991",
+				"name": "21st JT LCPL Hoovy"
+			},
+			{
+				"last_seen": "1785871873",
+				"steamid64": "76561199275712681",
+				"name": "21st Medic SFC Frosttie"
+			},
+			{
+				"last_seen": "1785876288",
+				"steamid64": "76561198142441964",
+				"name": "501st Commander Lunaris"
+			},
+			{
+				"last_seen": "1785876288",
+				"steamid64": "76561198176173741",
+				"name": "Shock Commander Cardboard"
+			},
+			{
+				"last_seen": "1785876333",
+				"steamid64": "76561198267725032",
+				"name": "Marshal Commander Grizzly"
+			},
+			{
+				"last_seen": "1785876484",
+				"steamid64": "76561199853732863",
+				"name": "CT 1827 PFC Danno"
+			},
+			{
+				"last_seen": "1785876778",
+				"steamid64": "76561199002802022",
+				"name": "12th SNTL XO NVCMDR Girt"
+			},
+			{
+				"last_seen": "1785877512",
 				"steamid64": "76561198110384843",
 				"name": "Tarkas Monn"
 			}
@@ -7840,12 +8634,24 @@
 				"assigned_at": "1785542402",
 				"steamid64": "76561198416535674",
 				"model_path": "models/gunhawk/arc-gunhawk.mdl"
+			},
+			{
+				"assigned_by": "Tarkas Monn",
+				"active": "0",
+				"label": "The Kraken ~Tarkas",
+				"assigned_at": "1785801037",
+				"steamid64": "76561199580803857",
+				"model_path": "models/player/iciia/kraken/kraken.mdl"
 			}
 		],
 		"gar_xp_active_model": [
 			{
 				"steamid64": "76561198416535674",
 				"model_path": "models/gunhawk/arc-gunhawk.mdl"
+			},
+			{
+				"steamid64": "76561199580803857",
+				"model_path": "models/player/iciia/kraken/kraken.mdl"
 			}
 		],
 		"gar_cert_holders": [
