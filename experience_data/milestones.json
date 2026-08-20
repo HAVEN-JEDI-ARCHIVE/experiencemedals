@@ -264,6 +264,17 @@
 				"target_value": "1",
 				"name": "CG Medal Of Valor",
 				"xp_reward": "1000"
+			},
+			{
+				"grants_title": "The Experiment",
+				"sort_order": "60",
+				"icon": "",
+				"id": "26",
+				"description": "Participated in a Head Developer held Test in the Dev Server",
+				"stat_type": "manual",
+				"target_value": "10",
+				"name": "The Experiment",
+				"xp_reward": "60000"
 			}
 		]
 	}
