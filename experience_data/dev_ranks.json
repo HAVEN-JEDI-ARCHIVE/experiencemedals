@@ -29,6 +29,12 @@
 				"sort_order": "0",
 				"name": "The Highest High Commander",
 				"id": "3"
+			},
+			{
+				"color": "#ff2e6c",
+				"sort_order": "0",
+				"name": "Grizzly \"Wick\"",
+				"id": "4"
 			}
 		],
 		"gar_xp_access_groups": [
